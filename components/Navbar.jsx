@@ -53,12 +53,13 @@ export default function Navbar() {
                         <Box
                             fontFamily="roboto"
                             fontWeight="900"
-                            fontSize={["18px", "24px"]}
+                            fontSize={["14px", "24px"]}
                         >
                             <Link
                                 href="/"
                                 _hover={{ textDecor: "none" }}
                                 color="#fff"
+                                className="pressStart"
                             >
                                 KADENA SKELLIES
                             </Link>

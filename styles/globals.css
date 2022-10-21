@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 html {
     scroll-behavior: smooth;
 }
@@ -17,6 +17,10 @@ a {
 
 * {
     box-sizing: border-box;
+}
+
+.pressStart {
+    font-family: "Press Start 2P", cursive;
 }
 
 .bg {
@@ -70,10 +74,6 @@ a {
     margin: 70px 0;
     position: absolute;
     animation: marquee 20s linear infinite;
-}
-
-.marquee--inner:hover {
-    /* animation-play-state: paused; */
 }
 
 /*.half {
