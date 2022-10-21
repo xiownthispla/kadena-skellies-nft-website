@@ -14,13 +14,15 @@ import About from "../components/About";
 import Faq from "../components/Faq";
 import Join from "../components/Join";
 import Footer from "../components/Footer";
+import Steps from "../components/Steps";
 
 export default function Home() {
     return (
         <Layout>
             <Hero />
+            <Steps />
             <About />
-            {/* <Utilities /> */}
+            <Utilities />
             <RoadMap />
             <Faq />
             <Join />

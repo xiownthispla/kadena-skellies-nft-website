@@ -14,13 +14,17 @@ SwiperCore.use([Navigation, Autoplay, Pagination, EffectCoverflow]);
 
 const Hero = () => {
     return (
-        <Box mt={["60px", null, "100px"]} maxWidth="1140px" mx="auto" mb="64px">
+        <Box
+            mt={["60px", null, "100px"]}
+            maxWidth="1140px"
+            mx="auto"
+            mb="64px"
+            id="mint"
+        >
             <Box display={["none", "block", "block"]}>
                 <Swiper
                     spaceBetween={50}
                     slidesPerView={2}
-                    //     onSlideChange={() => console.log("slide change")}
-                    //     onSwiper={(swiper) => console.log(swiper)}
                     effect="coverflow"
                     grabCursor={true}
                     centeredSlides={true}

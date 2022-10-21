@@ -4,7 +4,7 @@ import ScreenWidth from "../Layout/ScreenWidth";
 
 const About = () => {
     return (
-        <Box bgImage="/about.png" bgPosition="top">
+        <Box bgImage="/about.png" bgPosition="">
             <ScreenWidth>
                 <Box py="64px">
                     <Text
@@ -13,7 +13,7 @@ const About = () => {
                         textAlign="center"
                         mb="64px"
                     >
-                        The Founder
+                        About
                     </Text>
 
                     <Flex gap="20px" flexDir={["column", null, "row"]}>

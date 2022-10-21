@@ -4,9 +4,10 @@ const colors = {
     brand: {
         dark: "#101111",
         white: "white",
-        purple: "purple",
         green: "#00ffa3",
-	// fade:""
+        fade: "rgba(255, 255, 255, 0.9)",
+        purple: "rgba(88, 101, 242, 0.9)",
+        gold: "rgba(255, 230, 0, 0.9)",
     },
 };
 

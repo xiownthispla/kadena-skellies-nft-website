@@ -81,14 +81,6 @@ export default function Navbar() {
                                     >
                                         Mint
                                     </Link>
-                                    <Link
-                                        href="#roadmap"
-                                        fontSize="18px"
-                                        fontWeight="700"
-                                        _hover={{ textDecor: "underline" }}
-                                    >
-                                        Roadmap
-                                    </Link>
 
                                     <Link
                                         href="#utility"
@@ -97,6 +89,15 @@ export default function Navbar() {
                                         _hover={{ textDecor: "underline" }}
                                     >
                                         Utility
+                                    </Link>
+
+                                    <Link
+                                        href="#roadmap"
+                                        fontSize="18px"
+                                        fontWeight="700"
+                                        _hover={{ textDecor: "underline" }}
+                                    >
+                                        Roadmap
                                     </Link>
 
                                     <Link

@@ -6,6 +6,7 @@ import Que from "./Que";
 const Faq = () => {
     return (
         <Box
+            id="faq"
             bgImage="/faq.png"
             bgSize="900"
             bgPos="center"
@@ -14,7 +15,11 @@ const Faq = () => {
         >
             <ScreenWidth>
                 <Box py="64px">
-                    <Text textAlign="center" fontWeight="900" fontSize={["24px",null,"32px"]}>
+                    <Text
+                        textAlign="center"
+                        fontWeight="900"
+                        fontSize={["24px", null, "32px"]}
+                    >
                         FREQUENTLY ASKED QUESTIONS
                     </Text>
 
