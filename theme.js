@@ -14,6 +14,6 @@ const fonts = {
     roboto: ` roboto-slab, sans-serif`,
 };
 
-const theme = extendTheme({ config, colors, fonts });
+const theme = extendTheme({ colors, fonts });
 
 export default theme;
