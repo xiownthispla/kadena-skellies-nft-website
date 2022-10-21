@@ -15,7 +15,7 @@ SwiperCore.use([Navigation, Autoplay, Pagination, EffectCoverflow]);
 const Hero = () => {
     return (
         <Box
-            mt={["0px", null, "100px"]}
+            mt={["63px", null, "100px"]}
             maxWidth="1140px"
             mx="auto"
             mb="64px"
