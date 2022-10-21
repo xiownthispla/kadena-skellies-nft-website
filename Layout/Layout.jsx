@@ -16,7 +16,7 @@ const Layout = ({ children, ...props }) => {
             </Head>
             <Box {...props} fontFamily="fira">
                 <Navbar />
-                <Box>{children}</Box>
+                <Box color="#fff">{children}</Box>
             </Box>
         </>
     );

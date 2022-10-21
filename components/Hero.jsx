@@ -14,12 +14,7 @@ SwiperCore.use([Navigation, Autoplay, Pagination, EffectCoverflow]);
 
 const Hero = () => {
     return (
-        <Box
-            mt={["63px", null, "100px"]}
-            maxWidth="1140px"
-            mx="auto"
-            mb="64px"
-        >
+        <Box mt={["60px", null, "100px"]} maxWidth="1140px" mx="auto" mb="64px">
             <Box display={["none", "block", "block"]}>
                 <Swiper
                     spaceBetween={50}
