@@ -11,10 +11,8 @@ import {
     MenuItem,
     MenuDivider,
     useDisclosure,
-    useColorModeValue,
-    Stack,
-    useColorMode,
     Center,
+    Stack,
 } from "@chakra-ui/react";
 import { BsMoonFill, BsSunFill } from "react-icons/bs";
 import { FaBars } from "react-icons/fa";
@@ -27,7 +25,7 @@ const NavLink = ({ children }) => (
         rounded={"md"}
         _hover={{
             textDecoration: "none",
-            bg: useColorModeValue("gray.200", "gray.700"),
+            bgColor: "gray.700",
         }}
         href={"#"}
     >
@@ -36,13 +34,11 @@ const NavLink = ({ children }) => (
 );
 
 export default function Navbar() {
-    const { colorMode, toggleColorMode } = useColorMode();
-    const { isOpen, onOpen, onClose } = useDisclosure();
     return (
         <>
             <Box
                 zIndex={"overlay"}
-                bg={[useColorModeValue("gray.100", "gray.900")]}
+                bg={["gray.900"]}
                 position="fixed"
                 top="0"
                 w="100%"
@@ -108,14 +104,7 @@ export default function Navbar() {
                                         FAQ
                                     </Link>
                                 </Flex>
-                                {/* Dark mode toggler  */}
-                                {/* <Button onClick={toggleColorMode}>
-                                {colorMode === "light" ? (
-                                    <BsMoonFill />
-                                ) : (
-                                    <BsSunFill />
-                                )}
-                            </Button> */}
+
                                 {/* Dropdown menu for mobile menu.  */}
                                 <Box display={["block", null, "none"]}>
                                     <Menu>
