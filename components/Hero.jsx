@@ -130,6 +130,7 @@ const Hero = () => {
                         py="25px"
                         display="flex"
                         borderRadius="30px"
+                        className="fade"
                     >
                         <Text as="span" pr="15px" fontSize="25px">
                             {" "}

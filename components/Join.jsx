@@ -45,6 +45,8 @@ const Join = () => {
                             py="25px"
                             display="flex"
                             borderRadius="30px"
+                            //     bgColor="brand.fade"
+                            className="fade"
                         >
                             <Text as="span" pr="15px" fontSize="25px">
                                 {" "}

@@ -6,6 +6,7 @@ const colors = {
         white: "white",
         purple: "purple",
         green: "#00ffa3",
+	// fade:""
     },
 };
 

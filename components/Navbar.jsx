@@ -55,7 +55,11 @@ export default function Navbar() {
                             fontWeight="900"
                             fontSize={["18px", "24px"]}
                         >
-                            <Link href="/" _hover={{ textDecor: "none" }}>
+                            <Link
+                                href="/"
+                                _hover={{ textDecor: "none" }}
+                                color="#fff"
+                            >
                                 KADENA SKELLIES
                             </Link>
                         </Box>
