@@ -61,7 +61,7 @@ const Steps = () => {
                                     fontWeight="900"
                                     lineHeight="shorter"
                                 >
-                                    Partner with a <br /> minting marketplace
+                                    Partner with a <br /> Arkade marketplace
                                 </Text>
                             </Flex>
                             <Flex align="center" w="100%">

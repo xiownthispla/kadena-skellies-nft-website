@@ -101,9 +101,9 @@ const Hero = () => {
             </Box>
 
             <Box mt="22px" px="16px">
-                <Text textAlign="center" fontSize="22px" fontWeight="400">
+                {/* <Text textAlign="center" fontSize="22px" fontWeight="400">
                     Prepare for Evolution 2
-                </Text>
+                </Text> */}
                 <Flex
                     gap={["16px", null, "32px"]}
                     justify="center"

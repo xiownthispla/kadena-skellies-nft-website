@@ -76,7 +76,7 @@ export default function Navbar() {
                                 >
                                     <Link
                                         color="#FFF"
-                                        href="#mint"
+                                        href="https://www.arkade.fun/mint/kadena-skellies"
                                         fontSize="18px"
                                         fontWeight="700"
                                         _hover={{ textDecor: "underline" }}
