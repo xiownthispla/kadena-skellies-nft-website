@@ -4,7 +4,7 @@ import ScreenWidth from "../Layout/ScreenWidth";
 
 const About = () => {
     return (
-        <Box bgImage="/about.png" bgPosition="">
+        <Box bgImage="/about.png" bgPosition="" bgColor="#040c12">
             <ScreenWidth>
                 <Box py="64px">
                     <Text

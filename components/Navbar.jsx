@@ -74,6 +74,7 @@ export default function Navbar() {
                                     display={["none", null, "flex"]}
                                 >
                                     <Link
+                                        color="#FFF"
                                         href="#mint"
                                         fontSize="18px"
                                         fontWeight="700"
@@ -83,6 +84,7 @@ export default function Navbar() {
                                     </Link>
 
                                     <Link
+                                        color="#FFF"
                                         href="#utility"
                                         fontSize="18px"
                                         fontWeight="700"
@@ -92,6 +94,7 @@ export default function Navbar() {
                                     </Link>
 
                                     <Link
+                                        color="#FFF"
                                         href="#roadmap"
                                         fontSize="18px"
                                         fontWeight="700"
@@ -101,6 +104,7 @@ export default function Navbar() {
                                     </Link>
 
                                     <Link
+                                        color="#FFF"
                                         href="#faq"
                                         fontSize="18px"
                                         fontWeight="700"

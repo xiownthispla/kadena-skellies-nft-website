@@ -147,7 +147,6 @@ const Utilities = () => {
                             className="strokeText2"
                             //     bgColor=""
                         >
-                            {/* <Icon as={FaCrown} fontSize="30px" /> */}
                             <Text color="transparent"> 2</Text>
                         </Flex>
                         <Text
@@ -156,14 +155,6 @@ const Utilities = () => {
                         >
                             Mint funds will be split equally between the 1/1
                             holders (10x 1/1) as follows:
-                            {/* <Text
-                                as="span"
-                                color="brand.purple"
-                                fontWeight="900"
-                            >
-                                2
-                            </Text>{" "}
-                            royalties: */}
                         </Text>
                         <Box
                             mt="12px"
@@ -330,7 +321,7 @@ const Utilities = () => {
                             <Text mt="16px" fontWeight="900" fontSize="16px">
                                 Examples:
                             </Text>
-                            <Text mt="1px">
+                            <Text as="div" mt="1px">
                                 <List>
                                     <ListItem>
                                         <ListIcon
@@ -397,7 +388,6 @@ const Utilities = () => {
                             fontSize="56px"
                             className="strokeText3"
                         >
-                            {/* <Icon as={FaCrown} fontSize="30px" /> */}
                             <Text color="transparent"> 3</Text>
                         </Flex>
                         <Text
