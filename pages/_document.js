@@ -8,9 +8,7 @@ export default function Document() {
             <Head />
             <body>
                 {/* Chakra ui color script mode */}
-                <ColorModeScript
-                    initialColorMode={theme.config.initialColorMode}
-                />
+
                 <Main />
                 <NextScript />
             </body>

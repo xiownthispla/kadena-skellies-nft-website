@@ -8,10 +8,7 @@ const colors = {
         green: "#00ffa3",
     },
 };
-const config = {
-    initialColorMode: "light",
-    useSystemColorMode: false,
-};
+
 const fonts = {
     fira: `"fira-sans",  sans-serif`,
     roboto: ` roboto-slab, sans-serif`,
