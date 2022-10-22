@@ -46,7 +46,7 @@ const RoadMap = () => {
 
                         <SimpleGrid
                             minChildWidth={["300px", null, "310px"]}
-                            gap={["16px", null,"32px"]}
+                            gap={["16px", null, "32px"]}
                             mt="20px"
                         >
                             {/* Pharse one  */}
@@ -57,7 +57,7 @@ const RoadMap = () => {
                                     fontWeight="900"
                                     color="brand.green"
                                 >
-                                    pharse 01
+                                    phase 01
                                     <Icon
                                         as={GiCheckMark}
                                         ml="10px"
@@ -87,7 +87,7 @@ const RoadMap = () => {
                                     fontWeight="900"
                                     color="brand.green"
                                 >
-                                    pharse 02
+                                    phase 02
                                     <Icon
                                         as={GiCheckMark}
                                         ml="10px"
@@ -117,7 +117,7 @@ const RoadMap = () => {
                                     fontWeight="900"
                                     color="brand.green"
                                 >
-                                    pharse 03
+                                    phase 03
                                     <Icon
                                         as={GiCheckMark}
                                         ml="10px"
