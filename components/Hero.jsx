@@ -113,6 +113,7 @@ const Hero = () => {
                     <Button
                         as="a"
                         href="https://twitter.com/KadenaSkellies"
+						target="_blank"
                         px={["18px"]}
                         py="25px"
                         display="flex"
@@ -129,7 +130,8 @@ const Hero = () => {
                     </Button>
                     <Button
                         as="a"
-                        href="https://discord.gg/Xe9PvYAktw"
+                        href="https://discord.gg/7cHgZb2Wkz"
+						target="_blank"
                         px={["18px"]}
                         py="25px"
                         display="flex"
@@ -151,12 +153,13 @@ const Hero = () => {
 export default Hero;
 
 const img = [
-    "https://media.discordapp.net/attachments/1009914411223363604/1018243472676888757/1.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1019277903231455253/Skeletor.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1020047906524385381/no_name_skelly.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1021477670237773854/fourth.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1027284890384863373/seventh.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1025109910393995264/sixth.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1021863929871339611/sneak1.png",
-    "https://media.discordapp.net/attachments/1009914411223363604/1018884681032282122/KDL.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1019277903231455253/Skeletor.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1020047906524385381/no_name_skelly.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1020737148137246851/third.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1021477670237773854/fourth.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1022863366991138827/fifth.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1025109910393995264/sixth.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1027284890384863373/seventh.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1030162266382946369/8th.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1032319556234002452/Ninth.png",
 ];

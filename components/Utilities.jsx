@@ -45,7 +45,7 @@ const Utilities = () => {
                             mx="auto"
                             justify={"center"}
                             align={"center"}
-                            fontSize="56px"
+                            fontSize="65px"
                             className="strokeText"
                             //     bgColor=""
                         >
@@ -105,8 +105,7 @@ const Utilities = () => {
                             </List>
 
                             <Text mt="16px">
-                                With marmalade that means these are forever, so
-                                if you are the first to mint any of the 1,250
+                                If you are the first to mint any of the 1,250
                                 Skellies you will receive{" "}
                                 <Text
                                     as="span"
@@ -143,7 +142,7 @@ const Utilities = () => {
                             mx="auto"
                             justify={"center"}
                             align={"center"}
-                            fontSize="56px"
+                            fontSize="65px"
                             className="strokeText2"
                             //     bgColor=""
                         >
@@ -318,7 +317,7 @@ const Utilities = () => {
                                 </ListItem>
                             </List>
 
-                            <Text mt="16px" fontWeight="900" fontSize="16px">
+                            {/*<Text mt="16px" fontWeight="900" fontSize="16px">
                                 Examples:
                             </Text>
                             <Text as="div" mt="1px">
@@ -367,6 +366,7 @@ const Utilities = () => {
                                 Evolution costs, to fund the second Evolution of
                                 Kadena Skellies and some surprise giveaways
                             </Text>
+							*/}
                         </Box>
                     </Box>
 
@@ -385,7 +385,7 @@ const Utilities = () => {
                             mx="auto"
                             justify={"center"}
                             align={"center"}
-                            fontSize="56px"
+                            fontSize="65px"
                             className="strokeText3"
                         >
                             <Text color="transparent"> 3</Text>
@@ -460,11 +460,11 @@ const Utilities = () => {
                                 </ListItem>
                             </List>
 
-                            <Text mt="16px">
+							{/* <Text mt="16px">
                                 Snapshot date of holders will more than likely
                                 be 1 week before the start (not mint) of the
                                 second Evolution (TBD).
-                            </Text>
+                            </Text> */}
                         </Box>
                     </Box>
                 </SimpleGrid>

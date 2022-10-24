@@ -24,6 +24,7 @@ const Join = () => {
                         <Button
                             as="a"
                             href="https://twitter.com/KadenaSkellies"
+							target="_blank"
                             px={["18px"]}
                             py="25px"
                             display="flex"
@@ -40,7 +41,8 @@ const Join = () => {
                         </Button>
                         <Button
                             as="a"
-                            href="https://discord.gg/Xe9PvYAktw"
+                            href="https://discord.gg/7cHgZb2Wkz"
+							target="_blank"
                             px={["18px"]}
                             py="25px"
                             display="flex"

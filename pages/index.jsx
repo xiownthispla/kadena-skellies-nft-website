@@ -21,10 +21,10 @@ export default function Home() {
         <Layout>
             <Hero />
             <Steps />
-            <About />
             <Utilities />
             <RoadMap />
             <Faq />
+			<About />
             <Join />
             <Footer />
         </Layout>
