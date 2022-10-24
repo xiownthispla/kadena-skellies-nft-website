@@ -149,16 +149,16 @@ const RoadMap = () => {
 export default RoadMap;
 
 const pharse_1 = [
-    "Project launch",
-    "Build up our community",
-    "Partner with a minting marketplace",
+    <del>Project launch</del>,
+    <del>Build up our community</del>,
+    <del>Partner with a minting marketplace</del>,
     "Allocate all OG roles for Free Mints",
     "Mint 1,250 Kadena Skellies",
 ];
 const pharse_2 = [
-    "Website launch",
+    <del>Website launch</del>,
     "Strategic partnerships in Kadena Ecosystem",
     "Utility integration",
 ];
 
-const pharse_3 = ["Prepare for Evolution"];
+const pharse_3 = ["Prepare for Evolution 2"];
