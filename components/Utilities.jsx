@@ -317,56 +317,6 @@ const Utilities = () => {
                                 </ListItem>
                             </List>
 
-                            {/*<Text mt="16px" fontWeight="900" fontSize="16px">
-                                Examples:
-                            </Text>
-                            <Text as="div" mt="1px">
-                                <List>
-                                    <ListItem>
-                                        <ListIcon
-                                            as={BsFillCheckCircleFill}
-                                            color="brand.purple"
-                                        />
-                                        If we mint all 1,250 Skellies, the 10x
-                                        1/1 holders will each receive
-                                        <Text
-                                            as="span"
-                                            color="brand.purple"
-                                            fontWeight="900"
-                                        >
-                                            {" 495 $KDA "}
-                                        </Text>
-                                        (150 Free mints, 9900 $KDA funds after
-                                        marketplace fees)
-                                    </ListItem>
-                                </List>
-                                <List mt="10px">
-                                    <ListItem>
-                                        <ListIcon
-                                            as={BsFillCheckCircleFill}
-                                            color="brand.purple"
-                                        />
-                                        If we mint 750 Skellies, the 1/1 holders
-                                        will
-                                        <Text
-                                            as="span"
-                                            color="brand.purple"
-                                            fontWeight="900"
-                                        >
-                                            {" split 1350 $KDA "}
-                                        </Text>
-                                        depending on how many 1/1 holders there
-                                        are and assuming all 150 Free mints
-                                        minted.
-                                    </ListItem>
-                                </List>
-                            </Text>
-                            <Text mt="6px">
-                                The remaining funds will be to cover current
-                                Evolution costs, to fund the second Evolution of
-                                Kadena Skellies and some surprise giveaways
-                            </Text>
-							*/}
                         </Box>
                     </Box>
 
@@ -457,6 +407,78 @@ const Utilities = () => {
                                         {" 4 FREE MINTS "}
                                     </Text>
                                     for the second Evolution
+                                </ListItem>
+                            </List>
+
+							{/* <Text mt="16px">
+                                Snapshot date of holders will more than likely
+                                be 1 week before the start (not mint) of the
+                                second Evolution (TBD).
+                            </Text> */}
+                        </Box>
+						
+                    </Box>
+					                    <Box
+                        width="100%"
+                        mx="auto"
+                        h="fit-content"
+                        bgColor="rgba(255, 255, 255, 0.05)"
+                        borderColor="whiteAlpha.400"
+                        px="20px"
+                        pb="20px"
+                    >
+                        <Flex
+                            w="70px"
+                            h="70px"
+                            mx="auto"
+                            justify={"center"}
+                            align={"center"}
+                            fontSize="65px"
+                            className="strokeText4"
+                        >
+                            <Text color="transparent"> 4</Text>
+                        </Flex>
+                        <Text
+                            fontSize={["16px", null, "16px"]}
+                            fontWeight="900"
+                        >
+                            Holding 2 Kadena Skellies in your wallet and reaching level 10 in Discord will grant
+                            you access to our
+                            <Text as="span" color="brand.pink" fontWeight="900">
+                                {" DECEMBER GIVEAWAYS! "}
+                            </Text>
+                        </Text>
+                        <Box
+                            mt="12px"
+                            fontWeight="500"
+                            fontSize="14px"
+                            color="brand.fade"
+                        >
+                            <List spacing={3}>
+                                <ListItem>
+                                    <ListIcon
+                                        as={BsFillCheckCircleFill}
+                                        color="brand.pink"
+                                    />
+                                    We are giving away ECO NFTs
+                                    <Text
+                                        as="span"
+                                        color="brand.pink"
+                                        fontWeight="900"
+                                    >
+                                        {" EVERYDAY FOR FREE "}
+                                    </Text>
+                                    in the month of December
+                                </ListItem>
+
+                                <ListItem>
+                                    <ListIcon
+                                        as={BsFillCheckCircleFill}
+                                        color="brand.pink"
+                                    />
+									Link to the wallet holding the NFT's
+                                    <a href="http://tinyurl.com/DecemberNFTs" target="_blank"><Text  as="span" color="brand.pink" fontWeight="900"> HERE</Text></a>
+			
                                 </ListItem>
                             </List>
 

@@ -29,7 +29,7 @@ const Que = () => {
                     >
                         {({ isExpanded }) => (
                             <>
-                                <Text py="30px" >
+                                <Text py="20px" >
                                     <AccordionButton
                                         _focus={{ bgColor: "initial" }}
                                     >
@@ -111,15 +111,15 @@ const faq = [
     },
     {
         que: "When is mint? ",
-        faq: "November, but no date set yet. ",
+        faq: "October 30th for OG's and October 31st for Public Mint. ",
     },
 
     {
         que: "Where are we minting?",
-        faq: "We have partnered with Arkade as our minting marketplace. https://www.arkade.fun/market   What wallet do we need? Arkade accepts X-wallet, Zelcore and Chainweaver.",
+        faq: "We have partnered with Arkade as our minting marketplace. Arkade accepts X-wallet, Zelcore and Chainweaver.",
     },
     {
-        que: " How many Skellies can I mint?",
+        que: "How many Skellies can I mint?",
         faq: "There are no limits. The only limit is the 1 free mint per OG Role, after you mint the first free you can mint however many you want for 10 $KDA each.",
     },
     {

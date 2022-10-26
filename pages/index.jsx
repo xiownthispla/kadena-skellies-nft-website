@@ -24,7 +24,7 @@ export default function Home() {
             <Utilities />
             <RoadMap />
             <Faq />
-			<About />
+	    <About />
             <Join />
             <Footer />
         </Layout>

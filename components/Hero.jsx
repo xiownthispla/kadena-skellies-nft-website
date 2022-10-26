@@ -14,6 +14,7 @@ SwiperCore.use([Navigation, Autoplay, Pagination, EffectCoverflow]);
 
 const Hero = () => {
     return (
+	
         <Box
             mt={["60px", null, "100px"]}
             maxWidth="1140px"
@@ -21,6 +22,32 @@ const Hero = () => {
             mb="64px"
             id="mint"
         >
+		     <Box mt="22px" px="16px">
+                <Flex
+                    gap={["16px", null, "32px"]}
+                    justify="center"
+                    flexDir={["column", null, "row"]}
+                    mt="18px"
+                >
+                    <Button
+                        as="a"
+                        href="https://www.arkade.fun/mint/kadena-skellies"
+						target="_blank"
+                        px={["50px"]}
+                        py="25px"
+                        display="flex"
+                        borderRadius="30px"
+                        bgColor={"brand.green"}
+                        color="#171923"
+                        _hover={{ color: "#fff", bgColor: "#FF0000" }}
+                    >
+                        <Text as="span" pr="15px" fontSize="35px">
+							MINT OCTOBER 30TH!!
+                        </Text>
+                    </Button>
+                </Flex>
+            </Box>
+			<br />
             <Box display={["none", "block", "block"]}>
                 <Swiper
                     spaceBetween={50}
@@ -162,4 +189,5 @@ const img = [
 	"https://media.discordapp.net/attachments/1009914411223363604/1027284890384863373/seventh.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1030162266382946369/8th.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1032319556234002452/Ninth.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1034631581912010832/tenth.png",
 ];

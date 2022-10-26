@@ -13,7 +13,7 @@ const About = () => {
                         textAlign="center"
                         mb="64px"
                     >
-                        About
+					{/*About*/}
                     </Text>
 
                     <Flex gap="20px" flexDir={["column", null, "row"]}>
@@ -65,7 +65,7 @@ const About = () => {
                             align="center"
                         >
                             <Box maxWidth="450px">
-                                <Text fontWeight="900" fontSize={["32px"]}>
+                                <Text fontWeight="900" fontSize={["20px"]}>
                                     {" "}
                                     <Text
                                         as="span"
@@ -78,14 +78,14 @@ const About = () => {
                                     xiownthisp
                                 </Text>
                                 <Text mt="16px">
-                                    An OG Kadena Miner since July 2021 and
-                                    knowledgeable in mining cryptocurrency in
-                                    general.
+                                    OG Kadena Miner since July of 2021 wilh
+                                    all around knowledgeable in cryptocurrency 
+									in general.
                                 </Text>
                                 <Text mt="18px">
-                                    Also part of the OG Kongs team that started
-                                    last year and has moved to Kadena Monster
-                                    Kongs.
+                                    Team member of the previously known OG Kongs
+									that has now moved on to become the new and 
+									improved Kadena Monster Kongs.
                                 </Text>
                             </Box>
                         </Flex>

@@ -8,6 +8,7 @@ const colors = {
         fade: "rgba(255, 255, 255, 0.9)",
         purple: "rgba(88, 101, 242, 0.9)",
         gold: "rgba(255, 230, 0, 0.9)",
+		pink: "rgba(255, 20, 147, 0.9)",
     },
 };
 

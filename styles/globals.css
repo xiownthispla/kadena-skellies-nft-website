@@ -36,17 +36,17 @@ a {
 }
 
 .strokeText {
-    -webkit-text-stroke: 1px rgba(0, 255, 163, 0.7);
+    -webkit-text-stroke: 1px rgba(0, 255, 163, 0.9);
 }
 
 .strokeText2 {
-    -webkit-text-stroke: 1px rgba(88, 101, 242, 0.7);
+    -webkit-text-stroke: 1px rgba(88, 101, 242, 0.9);
 }
 .strokeText3 {
-    -webkit-text-stroke: 1px rgba(255, 230, 0, 0.7);
+    -webkit-text-stroke: 1px rgba(255, 230, 0, 0.9);
 }
 .strokeText4 {
-    -webkit-text-stroke: 1px rgba(255, 0, 76, 0.7);
+    -webkit-text-stroke: 1px rgba(255, 20, 147, 0.9);
 }
 
 .orb {

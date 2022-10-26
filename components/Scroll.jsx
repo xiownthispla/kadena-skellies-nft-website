@@ -62,6 +62,7 @@ const img = [
 	"https://media.discordapp.net/attachments/1009914411223363604/1027284890384863373/seventh.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1030162266382946369/8th.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1032319556234002452/Ninth.png",
+	"https://media.discordapp.net/attachments/1009914411223363604/1034631581912010832/tenth.png",
     "https://media.discordapp.net/attachments/1009914411223363604/1018884681032282122/KDL.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1018243472676888757/1.png",
 	"https://media.discordapp.net/attachments/1009914411223363604/1017819929816346755/16.png",
