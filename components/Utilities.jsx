@@ -25,7 +25,7 @@ const Utilities = () => {
                 </Text>
 
                 <SimpleGrid
-                    minChildWidth={["200px", null, "300px"]}
+                    minChildWidth={["200px", null, "250px"]}
                     mt="64px"
                     mx="auto"
                     gap="32px"
@@ -161,13 +161,13 @@ const Utilities = () => {
                             fontSize="14px"
                             color="brand.fade"
                         >
-                            <List spacing={3}>
+                            <List spacing={2}>
                                 <ListItem>
                                     <ListIcon
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 350 Skellies
+                                    Mint 350 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -183,7 +183,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 450 Skellies
+                                    Mint 450 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -199,7 +199,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 550 Skellies
+                                    Mint 550 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -214,7 +214,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 650 Skellies
+                                    Mint 650 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -229,7 +229,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 750 Skellies
+                                    Mint 750 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -244,7 +244,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 850 Skellies
+                                    Mint 850 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -259,7 +259,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 950 Skellies
+                                    Mint 950 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -274,7 +274,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 1,050 Skellies
+                                    Mint 1,050 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -289,7 +289,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 1,150 Skellies
+                                    Mint 1,150 
                                     <Text
                                         as="span"
                                         color="brand.purple"
@@ -305,7 +305,7 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.purple"
                                     />
-                                    Mint 1,250 Skellies
+                                    Mint 1,250 
                                     <Text
                                         as="span"
                                         color="brand.purple"
