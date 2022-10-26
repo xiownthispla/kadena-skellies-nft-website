@@ -476,9 +476,8 @@ const Utilities = () => {
                                         as={BsFillCheckCircleFill}
                                         color="brand.pink"
                                     />
-									Link to the wallet holding the NFT's
-                                    <a href="http://tinyurl.com/DecemberNFTs" target="_blank"><Text  as="span" color="brand.pink" fontWeight="900"> HERE</Text></a>
-			
+									Link to the wallet holding the NFTs
+                                    <a href="http://tinyurl.com/DecemberNFTs"><Text  as="span" color="brand.pink" fontWeight="900"> HERE</Text></a>
                                 </ListItem>
                             </List>
 
