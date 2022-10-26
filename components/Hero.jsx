@@ -41,8 +41,8 @@ const Hero = () => {
                         color="#171923"
                         _hover={{ color: "#fff", bgColor: "#FF0000" }}
                     >
-                        <Text as="span" pr="15px" fontSize="35px">
-							MINT OCTOBER 30TH!!
+                        <Text as="span" pr="15px" fontSize="30px">
+							MINT OCTOBER 30TH!
                         </Text>
                     </Button>
                 </Flex>

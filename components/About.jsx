@@ -78,8 +78,8 @@ const About = () => {
                                     xiownthisp
                                 </Text>
                                 <Text mt="16px">
-                                    OG Kadena Miner since July of 2021 wilh
-                                    all around knowledgeable in cryptocurrency 
+                                    OG Kadena Miner since July of 2021 with
+                                    all around knowledge in cryptocurrency 
 									in general.
                                 </Text>
                                 <Text mt="18px">
