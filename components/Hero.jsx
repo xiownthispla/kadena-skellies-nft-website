@@ -31,7 +31,7 @@ const Hero = () => {
                 >
                     <Button
                         as="a"
-                        href="https://www.arkade.fun/mint/kadena-skellies"
+                        href="https://www.arkade.fun/market"
 						target="_blank"
                         px={["50px"]}
                         py="25px"
@@ -41,8 +41,8 @@ const Hero = () => {
                         color="#171923"
                         _hover={{ color: "#fff", bgColor: "#FF0000" }}
                     >
-                        <Text as="span" pr="15px" fontSize="50px">
-							MINT IS LIVE!!!
+                        <Text as="span" pr="15px" fontSize="20px">
+							SOULD OUT! CHECK MARKETPLACE!
                         </Text>
                     </Button>
                 </Flex>
