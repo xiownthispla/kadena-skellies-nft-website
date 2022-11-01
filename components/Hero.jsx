@@ -42,7 +42,7 @@ const Hero = () => {
                         _hover={{ color: "#fff", bgColor: "#FF0000" }}
                     >
                         <Text as="span" pr="15px" fontSize="20px">
-							SOULD OUT! CHECK MARKETPLACE!
+							SOLD OUT! CHECK MARKETPLACE!
                         </Text>
                     </Button>
                 </Flex>
