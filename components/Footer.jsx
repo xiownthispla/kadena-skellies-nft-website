@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <Box py="30px" bgColor="#171923">
             <Text textAlign="center" fontSize="12px">
-                Copyright © 2022 KADENA SKELLIES. All rights reserved.
+                Copyright © 2023 KADENA SKELLIES. All rights reserved.
             </Text>
         </Box>
     );

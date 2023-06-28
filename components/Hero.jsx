@@ -31,7 +31,7 @@ const Hero = () => {
                 >
                     <Button
                         as="a"
-                        href="https://www.arkade.fun/market"
+                        href="https://market.kadenaskellies.com/"
 						target="_blank"
                         px={["50px"]}
                         py="25px"

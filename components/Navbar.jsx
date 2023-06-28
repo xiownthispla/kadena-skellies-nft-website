@@ -76,15 +76,26 @@ export default function Navbar() {
                                 >
                                     <Link
                                         color="#FFF"
-                                        href="https://www.arkade.fun/mint/kadena-skellies"
+                                        href="https://market.kadenaskellies.com/"
 										target="_blank"
                                         fontSize="18px"
                                         fontWeight="700"
                                         _hover={{ textDecor: "underline" }}
                                     >
-                                        Mint
+                                        Marketplace
                                     </Link>
 
+                                    <Link
+                                        color="#FFF"
+                                        href="https://www.arkade.fun/marketplace/kadena-skellies"
+										target="_blank"
+                                        fontSize="18px"
+                                        fontWeight="700"
+                                        _hover={{ textDecor: "underline" }}
+                                    >
+                                        Arkade
+                                    </Link>
+									
                                     <Link
                                         color="#FFF"
                                         href="#utility"
