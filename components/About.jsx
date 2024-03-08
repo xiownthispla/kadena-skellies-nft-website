@@ -29,8 +29,8 @@ const About = () => {
                                 position="relative"
                             >
                                 <Image
-                                    src="https://media.discordapp.net/attachments/1009914411223363604/1017473913774669824/Fbcz7xhWYAAIQK7.jpeg"
-                                    alt="owener"
+                                    src="https://pbs.twimg.com/profile_images/1570172732402274306/rcK06Lir_400x400.jpg"
+                                    alt="owner"
                                 />
                                 <Box position="relative">
                                     <Box

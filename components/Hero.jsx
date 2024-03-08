@@ -180,14 +180,14 @@ const Hero = () => {
 export default Hero;
 
 const img = [
-	"https://media.discordapp.net/attachments/1009914411223363604/1019277903231455253/Skeletor.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1020047906524385381/no_name_skelly.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1020737148137246851/third.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1021477670237773854/fourth.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1022863366991138827/fifth.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1025109910393995264/sixth.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1027284890384863373/seventh.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1030162266382946369/8th.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1032319556234002452/Ninth.png",
-	"https://media.discordapp.net/attachments/1009914411223363604/1034631581912010832/tenth.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/203.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/370.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/871.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/41.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/346.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/427.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/627.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/452.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/681.png",
+	"https://cloudflare-ipfs.com/ipfs/bafybeiercfhfughibbhvz4zapooruz4wsm6fkwqjqhwr5i2pd2c7y7g2ua/830.png"
 ];
